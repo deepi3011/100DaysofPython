@@ -1,3 +1,4 @@
+*Band Name Generator*
 # Write your code below this line 👇
 #BandName Generator
 #Get input from the user and assign it to the variable Name and LastName
