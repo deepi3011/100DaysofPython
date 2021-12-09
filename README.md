@@ -1,4 +1,4 @@
-# 100DaysofPythonChallenge
+# 100DaysofPython
 Hi Guys!!✌✌
 -> I'm currently working on this course. I am very excited to share my solutions to all the day's projects. You all could use this as a reference if you have also enrolled in this course.
 
