@@ -93,9 +93,9 @@ Day 79: The Tragic Discovery of Handwashing: t-Tests & Distributions
 Day 80: Capstone Project - Predict House Prices
 
 👨‍💻 Professional
-Day 81: Portfolio Project - Text to Morse Code Converter
-Day 82: Portfolio Project - A website to show off your skills and the things I built
-Day 83: Portfolio Project - Built a text-based version of the Tic Tac Toe game
+* Day 81: Portfolio Project - Text to Morse Code Converter
+* Day 82: Portfolio Project - A website to show off your skills and the things I built
+* Day 83: Portfolio Project - Built a text-based version of the Tic Tac Toe game
 Day 84: Portfolio Project - A program where you can upload images and add a watermark
 Day 85: Portfolio Project - A Tkinter GUI desktop application that tests your typing speed
 Day 86: Portfolio Project - Using Python Turtle, build a clone of the 80s hit game Breakout
