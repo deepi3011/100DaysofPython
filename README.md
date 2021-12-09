@@ -1,6 +1,6 @@
 # 100DaysofPythonChallenge
 Hi Guys!!✌✌
-I'm currently working on this course. I am very excited to share my solutions to all the day's projects. You all could use this as a reference if you have also enrolled in this course.
+-> I'm currently working on this course. I am very excited to share my solutions to all the day's projects. You all could use this as a reference if you have also enrolled in this course.
 
 👨🏻Beginner
 * Day 1: Working with Variables in Python to Manage Data
@@ -115,7 +115,7 @@ I'm currently working on this course. I am very excited to share my solutions to
 * Day 100: Portfolio Project - Predicting Earnings using Multivariable Regression
 
 
-**Tools and technologies**💻🖨📁
+Tools and technologies💻🖨📁
 Python 3
 PyCharm, Jupyter Notebook, Google Colab
 Python Scripting and Automation
